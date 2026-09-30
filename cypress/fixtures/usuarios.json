@@ -1,0 +1,7 @@
+{
+  "admin": {
+    "nome": "Administrador do Treinamento",
+    "email": "admin.treinamento@qa.com",
+    "password": "treino123"
+  }
+}

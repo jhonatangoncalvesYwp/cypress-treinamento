@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Teclado Mecânico de Treinamento",
+    "preco": 250,
+    "descricao": "Teclado usado como massa de teste",
+    "quantidade": 15
+  },
+  {
+    "nome": "Monitor de Treinamento",
+    "preco": 1200,
+    "descricao": "Monitor usado como massa de teste",
+    "quantidade": 8
+  },
+  {
+    "nome": "Cadeira de Treinamento",
+    "preco": 890,
+    "descricao": "Cadeira usada como massa de teste",
+    "quantidade": 3
+  }
+]

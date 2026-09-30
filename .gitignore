@@ -1,0 +1,9 @@
+node_modules/
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress/reports/
+
+# Bastidor da aula (roteiro das demonstrações e configuração do editor do instrutor)
+.demo/
+.vscode/

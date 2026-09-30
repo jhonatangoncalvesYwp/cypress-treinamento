@@ -1,0 +1,26 @@
+[
+  {
+    "cenario": "o e-mail não está cadastrado",
+    "email": "naoexiste@qa.com",
+    "senha": "treino123",
+    "mensagemEsperada": "Email e/ou senha inválidos"
+  },
+  {
+    "cenario": "a senha está incorreta",
+    "email": "admin.treinamento@qa.com",
+    "senha": "senhaerrada",
+    "mensagemEsperada": "Email e/ou senha inválidos"
+  },
+  {
+    "cenario": "o e-mail está em branco",
+    "email": "",
+    "senha": "treino123",
+    "mensagemEsperada": "Email é obrigatório"
+  },
+  {
+    "cenario": "a senha está em branco",
+    "email": "admin.treinamento@qa.com",
+    "senha": "",
+    "mensagemEsperada": "Password é obrigatório"
+  }
+]

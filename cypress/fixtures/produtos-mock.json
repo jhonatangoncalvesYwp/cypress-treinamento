@@ -1,0 +1,19 @@
+{
+  "quantidade": 2,
+  "produtos": [
+    {
+      "nome": "Produto Simulado A",
+      "preco": 10,
+      "descricao": "Resposta simulada — não existe no servidor",
+      "quantidade": 1,
+      "_id": "mock0000000000A"
+    },
+    {
+      "nome": "Produto Simulado B",
+      "preco": 20,
+      "descricao": "Resposta simulada — não existe no servidor",
+      "quantidade": 2,
+      "_id": "mock0000000000B"
+    }
+  ]
+}
